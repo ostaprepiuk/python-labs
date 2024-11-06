@@ -1,6 +1,6 @@
 class Car:
 
-    def __init__(self, brand = "Nissan Skyline", power = 320, speed = 260, color = "White", year = 5):
+    def __init__(self, brand="Nissan Skyline", power=320, speed=260, color="White", year=5):
         self.__brand = brand
         self.__power = power
         self.__speed = speed
